@@ -1,0 +1,4 @@
+openai
+surfsky
+python-dotenv
+pydantic
